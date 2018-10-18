@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Cliente{
 	public static void main(String[] args) {
 		int puerto = 15000;
-		String ip = "192.168.1.71";
+		String ip = "192.168.1.169";
 
 		BufferedReader entrada = null;
 		PrintWriter salida = null;
